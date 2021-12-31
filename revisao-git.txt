@@ -1,0 +1,11 @@
+abrir o git bash com botão direito na pasta que vou usar.
+
+git clone https://github.com/facord/dio-desafio-github.git
+==============================================
+Lista de passos para mandar pra nuvem:
+git status
+git add -A (ou "add ." para todos os arquivos)
+git commit -m "inclusao das anotacoes do curso de git"
+git status
+git push origin main
+================================================
